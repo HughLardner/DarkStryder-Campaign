@@ -1,5 +1,5 @@
-
-
+[[]] 1st Officer  - Oisin
+[[]] Cyborg
 [[Rana Gorgett]] - hot headed fighter pilot - wing commander
 [[Lofran]] - Wookie - chief engineer. Recently liberated prisoner
 [[Dr Akensa]] - Mon cal - chief doctor - not a combat medic - former prisoner
@@ -7,4 +7,4 @@
 [[Gorak Kazam]] - Rodian - Chief of Security - former merchant 
 [[Klal]] - Dfel - Can not see in bright light, but vanishes in darkness. Cheif scout. Former Prisoner?
 [[Locar]] The finder. Oily. Weedled his way on. Precurment specialist. 
-[[]]
+[[Lt Jessa Daises]] Former Imperial shuttle pilot. Former prisoner 

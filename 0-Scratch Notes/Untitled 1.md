@@ -10,8 +10,7 @@
 [[Lt Jessa Dajus]] Former Imperial shuttle pilot. Former prisoner - Hugh
 
 
-2nd - Rana
-1st - Jessa
-3rd - [[Klal]]
-4th - [[Lofran]]
-5th - Darran 
+Pilots:
+
+
+G

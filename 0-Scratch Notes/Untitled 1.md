@@ -16,4 +16,7 @@ Pilots:
 Gunners:
 
 
-Chara
+Charasmatic gunner 
+Sad sack
+Drunk Scout
+ 

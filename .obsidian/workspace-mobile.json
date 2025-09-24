@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Scratch Notes/Add Random Notes Here.md",
+                "file": "0-Scratch Notes/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Add Random Notes Here"
+              "title": "Untitled"
             }
           }
         ]
@@ -210,9 +210,19 @@
           "icon": "git-pull-request",
           "title": "Source Control"
         }
+      },
+      {
+        "id": "779fa41e3bdfa288",
+        "type": "leaf",
+        "state": {
+          "type": "help-mate",
+          "state": {},
+          "icon": "life-buoy",
+          "title": "HelpMate"
+        }
       }
     ],
-    "currentTab": 7
+    "currentTab": 8
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -236,8 +246,11 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "b31c21d9eddbff96",
+  "active": "779fa41e3bdfa288",
   "lastOpenFiles": [
+    "0-Scratch Notes/Add Random Notes Here.md",
+    "0-Scratch Notes/Untitled.md",
+    "Untitled.base",
     "3-Mechanics/Where To Get Mechanics.md",
     "0-Obsidian TTRPG Tutorial/0-Obsidian TTRPG Tutorial.md",
     "3-Mechanics/NPCs/Wilma.md",
@@ -261,10 +274,6 @@
     "1-Party/Support Crew/Support Crew.md",
     "1-Party/Command Crew/Command Crew.md",
     "1-DM Toolkit/DM Board.md",
-    "1-DM Toolkit/Vault Report.md",
-    "1-DM Toolkit/DnD5e-DM Screen.md",
-    "1-DM Toolkit/DnD5e-SideScreen.md",
-    "Untitled.base",
     "Untitled 1.base",
     "Untitled.canvas"
   ]

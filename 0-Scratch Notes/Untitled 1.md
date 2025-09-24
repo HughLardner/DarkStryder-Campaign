@@ -30,3 +30,7 @@ Tahanck Tandar  - Oisin
 
 Kiffer - Obnoxious pilot 
 Hugh - 
+Oisin - Pilot 
+Emma - Astromech d
+Michael - 
+Fergal - 

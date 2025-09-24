@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Scratch Notes/Untitled 1.md",
+                "file": "1-Party/Support Crew/Dasha Defano.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled 1"
+              "title": "Dasha Defano"
             }
           }
         ]
@@ -248,8 +248,10 @@
   },
   "active": "b31c21d9eddbff96",
   "lastOpenFiles": [
-    "Untitled.canvas",
+    "1-Party/Support Crew/Support Crew.md",
+    "1-Party/Support Crew/Dasha Defano.md",
     "0-Scratch Notes/Untitled 1.md",
+    "Untitled.canvas",
     "0-Scratch Notes/Untitled.md",
     "0-Obsidian TTRPG Tutorial/0-Obsidian TTRPG Tutorial.md",
     "1-Party/Command Crew/Command Crew.md",
@@ -285,7 +287,6 @@
     "2-Campaign/Quests/Warn the Midwife.md",
     "2-Campaign/Quests/Beat the Goblin.md",
     "1-Party/Support Crew/Jane.md",
-    "1-Party/Command Crew/Flap.md",
     "Untitled 1.base"
   ]
 }

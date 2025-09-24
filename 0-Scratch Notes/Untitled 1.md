@@ -16,7 +16,12 @@ Pilots:
 Gunners:
 
 
-Charasmatic gunner 
+Charasmatic Pilot
 Sad sack
 Drunk Scout
- 
+
+Gammer - Fergal
+Genna - Michael
+Dan Druga - Kiffer
+Thana Gulra - Emma 
+[[Dasha Defano]] - Hugh 

@@ -23,7 +23,7 @@ Drunk Scout
 Gammer - Fergal
 Genna - Michael
 Dan Druga - Kiffer
-Thana Gulra - Emma 
+Thanas Gulra - Emma 
 [[Dasha Defano]] - Hugh 
 Tahanck Tandar  - Oisin 
 
@@ -33,4 +33,4 @@ Hugh - Assasin Droid
 Oisin - Pilot 
 Emma - Astromech droid
 Michael - Smuggler/pilot 
-Fergal - Pilot
+Fergal - Ships Gunner

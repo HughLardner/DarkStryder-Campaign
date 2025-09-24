@@ -25,3 +25,8 @@ Genna - Michael
 Dan Druga - Kiffer
 Thana Gulra - Emma 
 [[Dasha Defano]] - Hugh 
+Tahanck Tandar  - Oisin 
+
+
+Kiffer - Obnoxious pilot 
+Hugh - 

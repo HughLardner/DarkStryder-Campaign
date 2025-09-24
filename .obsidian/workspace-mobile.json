@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Mechanics/Where To Get Mechanics.md",
-                "mode": "preview",
+                "file": "0-Scratch Notes/Add Random Notes Here.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Where To Get Mechanics"
+              "title": "Add Random Notes Here"
             }
           }
         ]
@@ -238,6 +238,7 @@
   },
   "active": "b31c21d9eddbff96",
   "lastOpenFiles": [
+    "3-Mechanics/Where To Get Mechanics.md",
     "0-Obsidian TTRPG Tutorial/0-Obsidian TTRPG Tutorial.md",
     "3-Mechanics/NPCs/Wilma.md",
     "3-Mechanics/NPCs/Sildar Hallwinter.md",
@@ -263,7 +264,6 @@
     "1-DM Toolkit/Vault Report.md",
     "1-DM Toolkit/DnD5e-DM Screen.md",
     "1-DM Toolkit/DnD5e-SideScreen.md",
-    "1-DM Toolkit/Map-Faerun.md",
     "Untitled.base",
     "Untitled 1.base",
     "Untitled.canvas"

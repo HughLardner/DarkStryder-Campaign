@@ -1,3 +1,5 @@
+`https://drive.google.com/file/d/1NcGJlHV7PtzNBLH_Cv1NTTB5m2gCY6N_/view?usp=drivesdk`
+
 
 
 
@@ -23,8 +25,8 @@ You are to provide as much detailed information
 as possible to supplement our data that our patrol ships are gathering.
 4. Recon and Report on Kathol Sector. We know nothing about this place beyond coordinates to three nearby colonies. That's not a lot to start with.
 As you travel to different systems, your mission is to purchase astrogation charts for any known routes, as well compile whatever data you can get on settle- ments and unexplored systems within Kathol sector space.
-5. Recon and Report on Worlds in Un- known Space. As you leave Kathol sector and head into unknown space, you will have to rely more on your own observations and less on the charts and data of others. We're on the edge of the Empire and who knows what might be out there.
-We need to know of any rogue colonies or undis- covered civilizations. New Republic Military Com- mand is going to want to know whether this is a true wilderness zone or if we have to fortify our borders against possible incursion by alien forces. While I am not at liberty to discuss specifics, we have faced similar incidents in the past.
+5. Recon and Report on Worlds in Unknown Space. As you leave Kathol sector and head into unknown space, you will have to rely more on your own observations and less on the charts and data of others. We're on the edge of the Empire and who knows what might be out there.
+We need to know of any rogue colonies or undis- covered civilizations. New Republic Military Command is going to want to know whether this is a true wilderness zone or if we have to fortify our borders against possible incursion by alien forces. While I am not at liberty to discuss specifics, we have faced similar incidents in the past.
 Keep your eyes open!
 6. Represent New Republic Interests to any Settlements or Ċivilizations. This is your lowest priority, but it has far-reaching implica- tions. Act accordingly. The FarStar is a forward rep- resentative for the New Republic; your job is to present a good face to worlds that have suffered under Imperial despotism for decades.
 You are to convince local governments that the New Republic represents positive change. Some of them will want help, while others are going to be looking for signs of weakness. You are also to provide data to Kal'Shebbol so the New Republic Provisional Council can choose whether to use polite or gunboat diplomacy in future exchanges.

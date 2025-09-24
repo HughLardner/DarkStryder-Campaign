@@ -4,20 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9d6a110f4edae314",
+        "id": "98d9628f890d1e7f",
         "type": "tabs",
         "children": [
           {
-            "id": "df711cf46e5f245b",
+            "id": "b31c21d9eddbff96",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.base",
-                "viewName": "Table"
+                "file": "3-Mechanics/Where To Get Mechanics.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "Where To Get Mechanics"
             }
           }
         ]
@@ -105,7 +106,8 @@
         }
       }
     ],
-    "currentTab": 4
+    "currentTab": 0,
+    "pinned": true
   },
   "right": {
     "id": "4cdd51b62a27cd95",
@@ -198,9 +200,19 @@
           "icon": "skull",
           "title": "Combatant"
         }
+      },
+      {
+        "id": "31879ac4e51fd667",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
       }
     ],
-    "currentTab": 6
+    "currentTab": 7
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -224,10 +236,36 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "df711cf46e5f245b",
+  "active": "b31c21d9eddbff96",
   "lastOpenFiles": [
-    "Untitled.md",
+    "0-Obsidian TTRPG Tutorial/0-Obsidian TTRPG Tutorial.md",
+    "3-Mechanics/NPCs/Wilma.md",
+    "3-Mechanics/NPCs/Sildar Hallwinter.md",
+    "3-Mechanics/NPCs/Jasmine.md",
+    "3-Mechanics/NPCs/Gundren Rockseeker.md",
+    "3-Mechanics/NPCs/Gragmaw Castle.md",
+    "3-Mechanics/NPCs/Fred the 2nd.md",
+    "1-Session Journals/2023-10-26.md",
+    "3-Mechanics/Guilds and Groups/Harpers.md",
+    "3-Mechanics/Guilds and Groups/Magicians.md",
+    "3-Mechanics/Items/DefaultName.md",
+    "3-Mechanics/Items/Broken Stick.md",
+    "2-Campaign/Quests/Warn the Midwife.md",
+    "2-Campaign/Quests/Beat the Goblin.md",
+    "1-Party/Support Crew/Jane.md",
+    "1-Party/Command Crew/Flap.md",
+    "1-Party/Command Crew/Bob.md",
+    "2-World/Phandelver.md",
+    "1-Session Journals/2000-01-01.md",
+    "1-Party/Support Crew/Support Crew.md",
+    "1-Party/Command Crew/Command Crew.md",
+    "1-DM Toolkit/DM Board.md",
+    "1-DM Toolkit/Vault Report.md",
+    "1-DM Toolkit/DnD5e-DM Screen.md",
+    "1-DM Toolkit/DnD5e-SideScreen.md",
+    "1-DM Toolkit/Map-Faerun.md",
     "Untitled.base",
-    "2025-09-21.md"
+    "Untitled 1.base",
+    "Untitled.canvas"
   ]
 }

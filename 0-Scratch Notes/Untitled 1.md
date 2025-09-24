@@ -2,16 +2,16 @@
 [[Lt Darryn Thyte]]  Bridge operations officer -  Cyborg
 [[Lt Ranna  "WingRipper" Gorjaye]] - hot headed fighter pilot - wing commander
 [[Lofryyhn]] - Wookie - chief engineer. Recently liberated prisoner
-[[Dr Akanseh]] - Mon Calamari - chief doctor - not a combat medic - former prisoner
+[[Dr Akanseh]] - Mon Calamari - chief doctor - not a combat medic - former prisoner - Fergal
 [[Sgt Brophar Tofarain ]] - Starship Merchanic - Owns the [[Move On]]
-[[Gorak Kazam]] - Rodian - Chief of Security - former merchant 
-[[Klal]] - Dfel - Can not see in bright light, but vanishes in darkness. Cheif scout. Former Prisoner?
-[[Locar]] Twliek - The finder. Oily. Weedled his way on. Precurment specialist. 
-[[Lt Jessa Daives]] Former Imperial shuttle pilot. Former prisoner 
+[[Gorak Khzam]] - Rodian - Chief of Security - former merchant 
+[[Kl'aal]] - Defel Scout - Can not see in bright light, but vanishes in darkness. Cheif scout. Former Prisoner?
+[[Loh'khar the Finder]] Twi'lek . Oily. Weedled his way on. Precurment specialist. 
+[[Lt Jessa Dajus]] Former Imperial shuttle pilot. Former prisoner 
 
 
-1st - Rana
-2nd - Jessa
+2nd - Rana
+1st - Jessa
 3rd - [[Klal]]
 4th - [[Lofran]]
 5th - Darran 

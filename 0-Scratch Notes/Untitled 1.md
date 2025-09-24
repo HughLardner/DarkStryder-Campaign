@@ -13,4 +13,7 @@
 Pilots:
 
 
-G
+Gunners:
+
+
+Chara

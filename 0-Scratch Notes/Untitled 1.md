@@ -29,8 +29,8 @@ Tahanck Tandar  - Oisin
 
 
 Kiffer - Obnoxious pilot 
-Hugh - 
+Hugh - Assasin Droid 
 Oisin - Pilot 
-Emma - Astromech d
-Michael - 
-Fergal - 
+Emma - Astromech droid
+Michael - Smuggler/pilot 
+Fergal - Pilot

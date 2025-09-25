@@ -1,28 +1,14 @@
 {
   "main": {
-    "id": "27fc03435e29faf9",
+    "id": "4cb79ef85173213f",
     "type": "split",
     "children": [
       {
-        "id": "6267d07c90b74358",
+        "id": "b87350b118acb0da",
         "type": "tabs",
         "children": [
           {
-            "id": "734b94e7132037da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DarkStryder/README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "cd309562c8e2cf71",
+            "id": "804b9cf2905035b9",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -31,22 +17,37 @@
               "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "a610834066811cc6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc6cad9175c8f2ac",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "4c29d2e47fafd1b0",
+    "id": "07469301e1034859",
     "type": "split",
     "children": [
       {
-        "id": "91ddbc5a8e59eb77",
+        "id": "2895005961d0b441",
         "type": "tabs",
         "children": [
           {
-            "id": "e9b2fae725af43d0",
+            "id": "8e888b4207bacd42",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -59,7 +60,7 @@
             }
           },
           {
-            "id": "dbe7b9a8d88ac098",
+            "id": "e3a62373259f0e42",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -76,7 +77,7 @@
             }
           },
           {
-            "id": "96ff6f59b273b349",
+            "id": "6bc34f7931a6f8ac",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -84,39 +85,27 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
-          },
-          {
-            "id": "ce0431ab1982b0fe",
-            "type": "leaf",
-            "state": {
-              "type": "tagfolder-view",
-              "state": {},
-              "icon": "stacked-levels",
-              "title": "Tag Folder"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "right": {
-    "id": "bebd5672cf018650",
+    "id": "3274aad4660c6f3c",
     "type": "split",
     "children": [
       {
-        "id": "76536a35ac5b5017",
+        "id": "2993c4922aefb6ab",
         "type": "tabs",
         "children": [
           {
-            "id": "d7a2c17703c924d4",
+            "id": "31e77cf1001ec406",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DarkStryder/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,25 +115,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "68190f1de4bf4340",
+            "id": "8419d198d4792f2c",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DarkStryder/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "27dc8f7f69676478",
+            "id": "405fce1c1f0ce480",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -159,52 +147,20 @@
             }
           },
           {
-            "id": "a1fc7f009f9df4f9",
+            "id": "5f93d56800f9b0a1",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "DarkStryder/README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
-            }
-          },
-          {
-            "id": "7808c5406db95a34",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
-              "icon": "dices",
-              "title": "Dice Tray"
-            }
-          },
-          {
-            "id": "4fffd7eefad90187",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {},
-              "icon": "initiative-tracker",
-              "title": "Initiative Tracker"
-            }
-          },
-          {
-            "id": "4ab5ae0b6b984884",
-            "type": "leaf",
-            "state": {
-              "type": "help-mate",
-              "state": {},
-              "icon": "life-buoy",
-              "title": "HelpMate"
+              "title": "Outline"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
@@ -219,25 +175,58 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "templater-obsidian:Templater": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-kanban:Create new board": false,
-      "obsidian42-brat:BRAT": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "obsidian-5e-statblocks:Open Creature pane": false,
-      "initiative-tracker:Initiative Tracker Encounter Builder": false,
-      "obsidian-import-json:JSON/CSV Importer": false,
-      "helpmate:HelpMate": false,
-      "obsidian-projects:Open projects": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cd309562c8e2cf71",
+  "active": "804b9cf2905035b9",
   "lastOpenFiles": [
-    "DarkStryder/README.md",
-    "Welcome.md",
-    "Untitled.md",
-    "DarkStryder"
+    "z_Templates/4_Markdown/Insert Rollable Table/Insert Rollable Table.md",
+    "z_Templates/4_Markdown/Insert Rollable Table/Insert Rollable Table - d6.md",
+    "z_Templates/4_Markdown/Insert Rollable Table/Insert Rollable Table - d8.md",
+    "z_Templates/4_Markdown/Insert Rollable Table/Insert Rollable Table - d4.md",
+    "z_Templates/4_Markdown/Insert Rollable Table/Insert Rollable Table - d20.md",
+    "z_Templates/4_Markdown/Insert Rollable Table/Insert Rollable Table - d12.md",
+    "z_Templates/4_Markdown/Insert Rollable Table/Insert Rollable Table - d100.md",
+    "z_Templates/4_Markdown/Insert Rollable Table/Insert Rollable Table - d10.md",
+    "z_Templates/4_Markdown/April's Timeline/Timeline - Render Timeline.md",
+    "z_Templates/4_Markdown/April's Timeline/Timeline - Insert Event into Frontmatter.md",
+    "z_Templates/4_Markdown/April's Timeline/Timeline - Add Event.md",
+    "z_Templates/4_Markdown/Combat Templates/Insert Random Encounter Table (Initiative Tracker).md",
+    "z_Templates/4_Markdown/Combat Templates/Insert Multiple Encounters Table (Initiative Tracker).md",
+    "z_Templates/4_Markdown/Combat Templates/Insert Multiple Encounters (Initiative Tracker) 1.md",
+    "z_Templates/4_Markdown/Combat Templates/Insert Monster Into Table (Initiative Tracker).md",
+    "z_Templates/4_Markdown/Combat Templates/Insert Monster (TTRPG Statblock).md",
+    "z_Templates/4_Markdown/Combat Templates/Insert Encounter (Initiative Tracker).md",
+    "z_Templates/4_Markdown/Combat Templates/Insert Customer Monster (TTRPG Statblock).md",
+    "z_Templates/4_Markdown/Combat Templates/Insert Custom Encounter Table (Initiative Tracker).md",
+    "z_Templates/4_Markdown/Combat Templates/Insert Custom Encounter (Initiative Tracker).md",
+    "z_Templates/4_Markdown/Call Out Boxes/Call Out Boxes.md",
+    "z_Templates/4_Markdown/Call Out Boxes/Call Out - Treasure.md",
+    "z_Templates/4_Markdown/Call Out Boxes/Call Out - Trap.md",
+    "z_Templates/4_Markdown/Call Out Boxes/Call Out - Right Section.md",
+    "z_Templates/4_Markdown/Call Out Boxes/Call Out - Read Aloud.md",
+    "z_Templates/4_Markdown/Call Out Boxes/Call Out - Message.md",
+    "z_Templates/4_Markdown/Insert Rollable Table",
+    "z_Templates/4_Markdown/April's Timeline",
+    "z_Templates/4_Markdown/Combat Templates",
+    "z_Templates/4_Markdown/Call Out Boxes",
+    "z_Templates/7_World Building Templates",
+    "z_Templates/6_Help Notes",
+    "z_Templates/3_Dataview Templates",
+    "z_Templates/4_Markdown",
+    "z_Templates",
+    "z_Assets/Decks/Business Card Dungeon/Dungeon9.png",
+    "z_Assets/Decks/Business Card Dungeon/Dungeon8.png",
+    "z_Assets/Decks/Business Card Dungeon/Dungeon7.png",
+    "z_Assets/Decks/Business Card Dungeon/Dungeon6.png",
+    "z_Assets/Decks/Business Card Dungeon/Dungeon5.png",
+    "z_Assets/Decks/Business Card Dungeon/Dungeon4.png",
+    "z_Assets/Decks/Business Card Dungeon/Dungeon3.png",
+    "z_Assets/Decks/Business Card Dungeon/Dungeon20.png",
+    "z_Assets/Decks/Business Card Dungeon/Dungeon2.png",
+    "z_Assets/Decks/Business Card Dungeon/Dungeon19.png",
+    "z_Assets/Decks/Business Card Dungeon",
+    "Untitled.canvas"
   ]
 }

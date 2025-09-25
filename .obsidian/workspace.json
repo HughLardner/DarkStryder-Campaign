@@ -11,10 +11,14 @@
             "id": "804b9cf2905035b9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "1-Session Journals/2000-01-01.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2000-01-01"
             }
           }
         ]
@@ -27,10 +31,14 @@
             "id": "bc6cad9175c8f2ac",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "z_Example Notes/Realm Design Form.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Realm Design Form"
             }
           }
         ]
@@ -84,6 +92,16 @@
               "state": {},
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "cc54e2cc7036ae77",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
+              "state": {},
+              "icon": "stacked-levels",
+              "title": "Tag Folder"
             }
           }
         ]
@@ -159,6 +177,26 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "744909928399c819",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          },
+          {
+            "id": "f50cdcb93222a926",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
           }
         ]
       }
@@ -169,6 +207,17 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian42-brat:BRAT": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "obsidian-import-json:JSON/CSV Importer": false,
+      "helpmate:HelpMate": false,
+      "obsidian-projects:Open projects": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -181,33 +230,35 @@
   },
   "active": "804b9cf2905035b9",
   "lastOpenFiles": [
-    "z_Example Notes/z_Example Notes.md",
+    "1-Session Journals/2023-10-26.md",
+    "1-Session Journals/2000-01-01.md",
+    "2-Campaign/Quests/Quests.md",
+    "z_Templates/6_Help Notes/Chart Examples (Mermaid).md",
     "z_Example Notes/Realm Design Form.md",
-    "z_Example Notes",
-    "z_Templates/4_Markdown/Insert Rollable Table/Insert Rollable Table.md",
-    "z_Templates/4_Markdown/Insert Rollable Table/Insert Rollable Table - d6.md",
-    "z_Templates/4_Markdown/Insert Rollable Table/Insert Rollable Table - d8.md",
-    "z_Templates/4_Markdown/Insert Rollable Table/Insert Rollable Table - d4.md",
-    "z_Templates/4_Markdown/Insert Rollable Table/Insert Rollable Table - d20.md",
-    "z_Templates/4_Markdown/Insert Rollable Table/Insert Rollable Table - d12.md",
-    "z_Templates/4_Markdown/Insert Rollable Table/Insert Rollable Table - d100.md",
-    "z_Templates/4_Markdown/Insert Rollable Table/Insert Rollable Table - d10.md",
     "z_Templates/4_Markdown/April's Timeline/Timeline - Render Timeline.md",
     "z_Templates/4_Markdown/April's Timeline/Timeline - Insert Event into Frontmatter.md",
     "z_Templates/4_Markdown/April's Timeline/Timeline - Add Event.md",
-    "z_Templates/4_Markdown/Combat Templates/Insert Random Encounter Table (Initiative Tracker).md",
-    "z_Templates/4_Markdown/Combat Templates/Insert Multiple Encounters Table (Initiative Tracker).md",
-    "z_Templates/4_Markdown/Combat Templates/Insert Multiple Encounters (Initiative Tracker) 1.md",
-    "z_Templates/4_Markdown/Combat Templates/Insert Monster Into Table (Initiative Tracker).md",
-    "z_Templates/4_Markdown/Combat Templates/Insert Monster (TTRPG Statblock).md",
-    "z_Templates/4_Markdown/Combat Templates/Insert Encounter (Initiative Tracker).md",
-    "z_Templates/4_Markdown/Combat Templates/Insert Customer Monster (TTRPG Statblock).md",
-    "z_Templates/4_Markdown/Combat Templates/Insert Custom Encounter Table (Initiative Tracker).md",
-    "z_Templates/4_Markdown/Combat Templates/Insert Custom Encounter (Initiative Tracker).md",
-    "z_Templates/4_Markdown/Call Out Boxes/Call Out Boxes.md",
-    "z_Templates/4_Markdown/Call Out Boxes/Call Out - Treasure.md",
     "z_Templates/4_Markdown/Call Out Boxes/Call Out - Trap.md",
-    "z_Templates/4_Markdown/Call Out Boxes/Call Out - Right Section.md",
+    "z_Templates/4_Markdown/Call Out Boxes/Call Out - Message.md",
+    "z_Templates/4_Markdown/Call Out Boxes/Call Out - Magic Item.md",
+    "z_Templates/4_Markdown/Combat Templates/Insert Random Encounter Table (Initiative Tracker).md",
+    "z_Templates/4_Markdown/Combat Templates/Insert Monster Into Table (Initiative Tracker).md",
+    "z_Templates/4_Markdown/Combat Templates/Insert Customer Monster (TTRPG Statblock).md",
+    "z_Templates/4_Markdown/Combat Templates/Insert Custom Encounter (Initiative Tracker).md",
+    "z_Templates/4_Markdown/Insert Rollable Table/Insert Rollable Table - d100.md",
+    "z_Templates/4_Markdown/Insert Rollable Table/Insert Rollable Table - d10.md",
+    "z_Templates/4_Markdown/Insert Rollable Table/Insert Rollable Table - d4.md",
+    "z_Templates/4_Markdown/Insert Rollable Table/Insert Rollable Table.md",
+    "z_Templates/4_Markdown/Dataview - TTRPG Statblocks.md",
+    "z_Templates/4_Markdown/Embed Website (iframe).md",
+    "z_Templates/4_Markdown/Format Font - Orc Text.md",
+    "z_Templates/4_Markdown/Insert Banner (ITS).md",
+    "z_Templates/4_Markdown/Insert Map (Simplified Template).md",
+    "z_Templates/4_Markdown/Insert Checkbox (ITS).md",
+    "z_Templates/4_Markdown/Weather Template.md",
+    "z_Assets/Decks/Business Card Dungeon/Dungeon6.png",
+    "z_Assets/Decks/Business Card Dungeon/Dungeon3.png",
+    "z_Example Notes",
     "z_Templates/4_Markdown/Insert Rollable Table",
     "z_Templates/4_Markdown/April's Timeline",
     "z_Templates/4_Markdown/Combat Templates",
@@ -220,10 +271,8 @@
     "z_Assets/Decks/Business Card Dungeon/Dungeon9.png",
     "z_Assets/Decks/Business Card Dungeon/Dungeon8.png",
     "z_Assets/Decks/Business Card Dungeon/Dungeon7.png",
-    "z_Assets/Decks/Business Card Dungeon/Dungeon6.png",
     "z_Assets/Decks/Business Card Dungeon/Dungeon5.png",
     "z_Assets/Decks/Business Card Dungeon/Dungeon4.png",
-    "z_Assets/Decks/Business Card Dungeon/Dungeon3.png",
     "z_Assets/Decks/Business Card Dungeon/Dungeon20.png",
     "z_Assets/Decks/Business Card Dungeon/Dungeon2.png",
     "z_Assets/Decks/Business Card Dungeon/Dungeon19.png",

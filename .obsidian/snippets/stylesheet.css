@@ -1,4 +1,3 @@
-.distant_galaxy {
 @font-face {
     font-family: 'SF Distant Galaxy';
     src: url('SFDistantGalaxy.woff2') format('woff2'),
@@ -6,7 +5,6 @@
     font-weight: normal;
     font-style: normal;
     font-display: swap;
-}
 }
 
 @font-face {

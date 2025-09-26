@@ -7,13 +7,13 @@ All *.css snippets are stored in your vault under: Root/.Obsidian/Snippets
 
 ### aetherian
 
-<p style="" >abcdefghijklmnopqrstuvwxyz1234567890ABCDEFGHIJKLMNOPQRSTUVWXYZ
-	{ .SF Distant Galaxy}</style>
+<p class="distant_galaxy" >abcdefghijklmnopqrstuvwxyz1234567890ABCDEFGHIJKLMNOPQRSTUVWXYZ
+	{ .SF Distant Galaxy}</p>
 
 ### aetherianHylian
 
-abcdefghijklmnopqrstuvwxyz1234567890ABCDEFGHIJKLMNOPQRSTUVWXYZ
-{ .SFDistantGalaxy} }
+<p style="font-family: 'SF Distant Galaxy Symbols'; font-weight: normal; font-style: normal;" >abcdefghijklmnopqrstuvwxyz1234567890ABCDEFGHIJKLMNOPQRSTUVWXYZ
+	{ .SF Distant Galaxy}</style>
 
 ### baroom
 

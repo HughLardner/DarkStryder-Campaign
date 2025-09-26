@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z_Templates/6_Help Notes/Font Examples.md",
+                "file": "z_Templates/TemplateNPC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Font Examples"
+              "title": "TemplateNPC"
             }
           }
         ]
@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z_Example Notes/Realm Design Form.md",
-                "mode": "source",
+                "file": "z_Templates/TemplatePlayer.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Realm Design Form"
+              "title": "TemplatePlayer"
             }
           }
         ]
@@ -230,13 +230,16 @@
   },
   "active": "804b9cf2905035b9",
   "lastOpenFiles": [
+    "z_Templates/TemplatePlayer.md",
+    "z_Example Notes/Realm Design Form.md",
+    "z_Templates/TemplateGroup.md",
+    "z_Templates/6_Help Notes/Font Examples.md",
     "z_Templates/6_Help Notes/Obsidian Markdown Formatting.md",
     "z_Templates/3_Dataview Templates/Dataview - Query TTRPG Statblocks.md",
     "1-Session Journals/2000-01-01.md",
     "1-Session Journals/2023-10-26.md",
     "2-Campaign/Quests/Quests.md",
     "z_Templates/6_Help Notes/Chart Examples (Mermaid).md",
-    "z_Example Notes/Realm Design Form.md",
     "z_Templates/4_Markdown/April's Timeline/Timeline - Render Timeline.md",
     "z_Templates/4_Markdown/April's Timeline/Timeline - Insert Event into Frontmatter.md",
     "z_Templates/4_Markdown/April's Timeline/Timeline - Add Event.md",
@@ -253,9 +256,6 @@
     "z_Templates/4_Markdown/Insert Rollable Table/Insert Rollable Table.md",
     "z_Templates/4_Markdown/Dataview - TTRPG Statblocks.md",
     "z_Templates/4_Markdown/Embed Website (iframe).md",
-    "z_Templates/4_Markdown/Format Font - Orc Text.md",
-    "z_Templates/4_Markdown/Insert Banner (ITS).md",
-    "z_Templates/4_Markdown/Insert Map (Simplified Template).md",
     "z_Assets/Decks/Business Card Dungeon/Dungeon6.png",
     "z_Assets/Decks/Business Card Dungeon/Dungeon3.png",
     "z_Example Notes",

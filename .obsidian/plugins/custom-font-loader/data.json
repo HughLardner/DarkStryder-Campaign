@@ -1,0 +1,7 @@
+{
+  "font_folder": ".obsidian/fonts/",
+  "font": "SfDistantGalaxy-0l3d.ttf",
+  "force_mode": false,
+  "custom_css_mode": true,
+  "custom_css": "/* Example CSS for your font: sfdistantgalaxyalternate-oe4d */\n\n/* Apply to all text */\n:root * {\n\t--font-default: 'sfdistantgalaxyalternate-oe4d';\n\t--default-font: 'sfdistantgalaxyalternate-oe4d';\n\t--font-family-editor: 'sfdistantgalaxyalternate-oe4d';\n\t--font-interface-override: 'sfdistantgalaxyalternate-oe4d';\n\t--font-text-override: 'sfdistantgalaxyalternate-oe4d';\n}\n\n/* Example: Apply to custom CSS class */\n.custom-font * {\n\tfont-family: 'sfdistantgalaxyalternate-oe4d' !important;\n}\n\n/* Example: Apply to specific elements only */\n.custom-font h1, .custom-font h2, .custom-font h3 {\n\tfont-family: 'sfdistantgalaxyalternate-oe4d' !important;\n}"
+}

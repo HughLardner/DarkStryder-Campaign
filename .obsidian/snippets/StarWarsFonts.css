@@ -1,0 +1,153 @@
+@font-face {
+    font-family: 'SF Distant Galaxy';
+    src: url('SFDistantGalaxy.woff2') format('woff2'),
+        url('SFDistantGalaxy.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SF Distant Galaxy AltOutline';
+    src: url('SFDistantGalaxyAltOutline-Italic.woff2') format('woff2'),
+        url('SFDistantGalaxyAltOutline-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SF Distant Galaxy Alternate';
+    src: url('SFDistantGalaxyAlternate-Italic.woff2') format('woff2'),
+        url('SFDistantGalaxyAlternate-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SF Distant Galaxy Alternate';
+    src: url('SFDistantGalaxyAlternate.woff2') format('woff2'),
+        url('SFDistantGalaxyAlternate.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SF Distant Galaxy';
+    src: url('SFDistantGalaxy-Italic.woff2') format('woff2'),
+        url('SFDistantGalaxy-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SF Distant Galaxy AltOutline';
+    src: url('SFDistantGalaxyAltOutline.woff2') format('woff2'),
+        url('SFDistantGalaxyAltOutline.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SF Distant Galaxy Outline';
+    src: url('SFDistantGalaxyOutline-Italic.woff2') format('woff2'),
+        url('SFDistantGalaxyOutline-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SF Distant Galaxy Symbols';
+    src: url('SFDistantGalaxySymbols.woff2') format('woff2'),
+        url('SFDistantGalaxySymbols.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Star Jedi Logo DoubleLine1';
+    src: url('StarJediLogoDoubleLine1.woff2') format('woff2'),
+        url('StarJediLogoDoubleLine1.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Star Jedi Logo DoubleLine2';
+    src: url('StarJediLogoDoubleLine2.woff2') format('woff2'),
+        url('StarJediLogoDoubleLine2.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Star Jedi Outline';
+    src: url('StarJediOutline.woff2') format('woff2'),
+        url('StarJediOutline.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SF Distant Galaxy Outline';
+    src: url('SFDistantGalaxyOutline.woff2') format('woff2'),
+        url('SFDistantGalaxyOutline.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Star Jedi Logo MonoLine';
+    src: url('StarJediLogoMonoLine.woff2') format('woff2'),
+        url('StarJediLogoMonoLine.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Star Jedi';
+    src: url('StarJedi.woff2') format('woff2'),
+        url('StarJedi.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Star Jedi Hollow';
+    src: url('StarJediHollow.woff2') format('woff2'),
+        url('StarJediHollow.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'StarJedi Special Edition';
+    src: url('StarJediSpecialEdition.woff2') format('woff2'),
+        url('StarJediSpecialEdition.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SF Distant Galaxy Symbols';
+    src: url('SFDistantGalaxySymbols-Italic.woff2') format('woff2'),
+        url('SFDistantGalaxySymbols-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+

@@ -1,4 +1,9 @@
 {
   "cssTheme": "Fancy-a-Story",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "supercharged-links-gen",
+    "stylesheet",
+    "StarWarsFonts"
+  ]
 }

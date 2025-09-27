@@ -35,17 +35,19 @@ _%>
 > ###### Basic Information
 > Type |  Stat |
 > ---|---|
+> Homeworld | `=this.Homeworld` |
 > Species | `=this.Species` |
-> Affiliation(s) | `=this.Affiliation` |
+> Affiliation(s) | `=this.Affiliation` 
 > Gender | `=this.Gender` |
 > Pronouns | `=this.pronouns` |
-> Species | `=this.Species` |
+> Rank | `=this.Rank` |
+> Role | `=this.Role` |
 > Condition | Healthy |
 > ###### Rules Info
 > Type |  Stat |
 > ---|---|
-> Alignment | `=this.alignment` |
-> Class | `=this.class` |
+> Career | `=this.Career` |
+> Speciality | `=this.speciality` |
 > Character Role | `=this.character-role` |
 
 # `=this.file.name`

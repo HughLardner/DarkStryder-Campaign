@@ -34,7 +34,7 @@
               "type": "markdown",
               "state": {
                 "file": "z_Templates/TemplateCharacter.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -228,10 +228,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "804b9cf2905035b9",
+  "active": "bc6cad9175c8f2ac",
   "lastOpenFiles": [
-    "ImagePlaceholder.png.md",
+    "z_Templates/6_Help Notes/Obsidian Markdown Formatting.md",
     "z_Templates/TemplateCharacter.md",
+    "ImagePlaceholder.png.md",
     "z_Templates/3_Dataview Templates/Query Outgoing Links.md",
     "z_Templates/3_Dataview Templates/Dataview - Query TTRPG Statblocks.md",
     "Untitled 2.base",
@@ -243,7 +244,6 @@
     "z_Example Notes/Realm Design Form.md",
     "z_Templates/TemplateGroup.md",
     "z_Templates/6_Help Notes/Font Examples.md",
-    "z_Templates/6_Help Notes/Obsidian Markdown Formatting.md",
     "1-Session Journals/2000-01-01.md",
     "1-Session Journals/2023-10-26.md",
     "2-Campaign/Quests/Quests.md",

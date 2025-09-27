@@ -1,12 +1,12 @@
 ---
-AssociatedGroup:
-Pronouns: Male
-Species:
+AssociatedGroup: 
+Gender: Male
+Race: 
 Age: "1"
-Class:
-Alignment:
-Character-Role:
-Location:
+Class: 
+Alignment: 
+Character-Role: 
+Location: 
 NoteIcon: npc
 Vitality: Deceased
 exampleProperty: z_Assets/Decks/Business Card Dungeon/Dungeon16.png
@@ -34,8 +34,8 @@ _%>
 > ---|---|
 > Home | `=this.Location` |
 > Group | `=this.AssociatedGroup` |
-> Pronouns | `=this.pronouns` |
-> Species | `=this.Species` |
+> Sex | `=this.gender` |
+> Race | `=this.race` |
 > Age | `=this.age` |
 > Condition | Healthy |
 > ###### Rules Info

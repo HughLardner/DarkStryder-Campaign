@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "1-Party"
             }
+          },
+          {
+            "id": "8c21456bb086c93a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "z_Templates/TemplateCharacter.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "TemplateCharacter"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "a610834066811cc6",
@@ -228,10 +243,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "804b9cf2905035b9",
+  "active": "8c21456bb086c93a",
   "lastOpenFiles": [
-    "z_Templates/TemplateCharacter.md",
     "1-Party/1-Party.md",
+    "z_Templates/TemplateCharacter.md",
     "z_Assets/Character Images/Brophar Tofarain.jpg",
     "z_Assets/Character Images/Darryn Thyte.jpg",
     "z_Assets/Character Images/Loh'khar the Finder.jpg",

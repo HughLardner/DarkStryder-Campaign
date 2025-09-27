@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-Party/Command Crew/Command Crew.md",
+                "file": "z_Templates/6_Help Notes/Obsidian Markdown Formatting.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Command Crew"
+              "title": "Obsidian Markdown Formatting"
             }
           }
         ]
@@ -246,8 +246,22 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "f65555852f3bec9e",
+  "active": "b31c21d9eddbff96",
   "lastOpenFiles": [
+    "z_Templates/6_Help Notes/Font Examples.md",
+    "z_Templates/6_Help Notes/Chart Examples (Mermaid).md",
+    "z_Templates/4_Markdown/Weather Specified.md",
+    "z_Templates/4_Markdown/Dataview - TTRPG Statblocks.md",
+    "z_Templates/4_Markdown/Embed Website (iframe).md",
+    "z_Templates/4_Markdown/Format Font - Orc Text.md",
+    "z_Templates/4_Markdown/Insert Banner (ITS).md",
+    "z_Templates/4_Markdown/Insert Checkbox (ITS).md",
+    "z_Templates/4_Markdown/Insert Map (Simplified Template).md",
+    "z_Templates/4_Markdown/Insert Reference To Rollable Table.md",
+    "z_Templates/How To Create New Templates.md",
+    "z_Templates/TemplateCharacter.md",
+    "1-Party/Command Crew/Command Crew.md",
+    "z_Assets/Character Images/Brophar Tofarain.jpg",
     "z_Assets/Character Images/Ranna Gorjaye.jpg",
     "z_Assets/Character Images/PXL_20250924_210116932.jpg",
     "z_Assets/Character Images/PXL_20250924_210045312~2.jpg",
@@ -257,15 +271,12 @@
     "z_Assets/Character Images/PXL_20250924_205849419.jpg",
     "z_Assets/Character Images/Loh'khar the Finder.jpg",
     "z_Assets/Character Images/Lofryyhn.jpg",
-    "z_Assets/Character Images/Kl'aal.jpg",
-    "z_Assets/Character Images/Kaiya Adrimetrum.jpg",
     "/z_Assets/Character Images",
     "/z_Assets",
     "/1-Party/1-Party.md",
     "1-Party/1-Party.md",
     "/1-Party",
     "0-Scratch Notes/Untitled 1.md",
-    "z_Templates/TemplateCharacter.md",
     "/z_Templates/TemplateCharacter.md",
     "z_Templates/Command Crew Template.md",
     "/z_Templates/6_Help Notes/Font Examples.md",
@@ -283,17 +294,6 @@
     "0-Scratch Notes/Untitled.md",
     "1-Party/Support Crew/Dasha Defano.md",
     "1-Party/Support Crew/Support Crew.md",
-    "Untitled.canvas",
-    "0-Obsidian TTRPG Tutorial/0-Obsidian TTRPG Tutorial.md",
-    "1-Party/Command Crew/Command Crew.md",
-    "1-Party/Command Crew/Lt Jessa Dajus.md",
-    "Loh'khar the Finder.md",
-    "Dr Akensa.md",
-    "Lt Jessa Daises.md",
-    "0-Scratch Notes/Add Random Notes Here.md",
-    "3-Mechanics/Where To Get Mechanics.md",
-    "3-Mechanics/NPCs/Wilma.md",
-    "3-Mechanics/NPCs/Sildar Hallwinter.md",
-    "3-Mechanics/NPCs/Jasmine.md"
+    "Untitled.canvas"
   ]
 }

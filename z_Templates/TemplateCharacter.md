@@ -30,7 +30,7 @@ _%>
 
 > [!infobox]
 > # `=this.file.name`
-> ![[ImagePlaceholder.png|cover hsmall]]
+> ![[z_Assets/Character Images/Ranna Gorjaye.jpg]]
 > [[ImagePlaceholder.png|Full size image]]
 > ###### Biographical Information
 > Homeworld | `=this.Homeworld` |
@@ -58,7 +58,6 @@ Largest Column: left
 
 --- end-column ---
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -69,9 +68,9 @@ Largest Column: left
 <body>
   <div class="infobox">
     <div class="heading">
-      <h2>Cute Dog</h2>
+      <h2>`=file.name`</h2>
     </div>
-    <img src="https://images.unsplash.com/photo-1586671267731-da2cf3ceeb80?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=689&q=80" class="infobox-img"
+    <img src=[[file:z_Assets/Character Images/Ranna Gorjaye.jpg]] class="infobox-img"
       alt="infobox picture">
     <div class="infobox-group">
       <div class="heading">

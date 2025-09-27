@@ -156,6 +156,30 @@ Largest Column: left
 
 --- end-multi-column
 
+--- start-multi-column: ID_9pq3
+```column-settings
+Number of Columns: 2
+Largest Column: left
+```
+
+--- end-column ---
+
+> [!infobox] > # Name 
+> ![[Image.png|cover hsmall]] 
+> ###### Stats 
+> | Type | Stat | 
+> | ---- | ---- | 
+> | Test | Testing | 
+> | Test | Testing | 
+> 
+> ##### Stats 2 
+> | Type | Stat | 
+> | ---- | ---- | 
+> | Test | Testing | 
+> | Test | Testing |
+
+--- end-multi-column
+
 {{Character
 |type=GFFA
 |image=[[File:Hansoloprofile.jpg]]

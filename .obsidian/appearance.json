@@ -3,7 +3,7 @@
   "theme": "obsidian",
   "enabledCssSnippets": [
     "supercharged-links-gen",
-    "stylesheet",
-    "StarWarsFonts"
+    "StarWarsFonts",
+    "multiColumn"
   ]
 }

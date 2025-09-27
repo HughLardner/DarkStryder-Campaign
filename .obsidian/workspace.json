@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z_Templates/TemplateCharacter.md",
+                "file": "1-Party/1-Party.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "TemplateCharacter"
+              "title": "1-Party"
             }
           }
         ]
@@ -228,10 +228,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bc6cad9175c8f2ac",
+  "active": "804b9cf2905035b9",
   "lastOpenFiles": [
-    "z_Templates/6_Help Notes/Obsidian Markdown Formatting.md",
     "z_Templates/TemplateCharacter.md",
+    "1-Party/1-Party.md",
+    "z_Assets/Character Images/Brophar Tofarain.jpg",
+    "z_Assets/Character Images/Darryn Thyte.jpg",
+    "z_Assets/Character Images/Loh'khar the Finder.jpg",
+    "z_Assets/Character Images/Lofryyhn.jpg",
+    "z_Assets/Character Images/Kl'aal.jpg",
+    "z_Assets/Character Images/Gorak Khzam.jpg",
+    "z_Assets/Character Images/Ranna Gorjaye.jpg",
+    "z_Assets/Character Images/Jessa Dajus.jpg",
+    "z_Assets/Character Images/Dr. Akanseh.jpg",
+    "z_Assets/Character Images/Kaiya Adrimetrum.jpg",
+    "z_Templates/6_Help Notes/Obsidian Markdown Formatting.md",
     "ImagePlaceholder.png.md",
     "z_Templates/3_Dataview Templates/Query Outgoing Links.md",
     "z_Templates/3_Dataview Templates/Dataview - Query TTRPG Statblocks.md",
@@ -257,9 +268,6 @@
     "z_Templates/4_Markdown/Combat Templates/Insert Random Encounter Table (Initiative Tracker).md",
     "z_Templates/4_Markdown/Combat Templates/Insert Monster Into Table (Initiative Tracker).md",
     "z_Templates/4_Markdown/Combat Templates/Insert Customer Monster (TTRPG Statblock).md",
-    "z_Templates/4_Markdown/Combat Templates/Insert Custom Encounter (Initiative Tracker).md",
-    "z_Assets/Decks/Business Card Dungeon/Dungeon6.png",
-    "z_Assets/Decks/Business Card Dungeon/Dungeon3.png",
     "z_Example Notes",
     "z_Templates/4_Markdown/Insert Rollable Table",
     "z_Templates/4_Markdown/April's Timeline",
@@ -268,14 +276,6 @@
     "z_Templates/7_World Building Templates",
     "z_Templates/6_Help Notes",
     "z_Templates/3_Dataview Templates",
-    "z_Assets/Decks/Business Card Dungeon/Dungeon9.png",
-    "z_Assets/Decks/Business Card Dungeon/Dungeon8.png",
-    "z_Assets/Decks/Business Card Dungeon/Dungeon7.png",
-    "z_Assets/Decks/Business Card Dungeon/Dungeon5.png",
-    "z_Assets/Decks/Business Card Dungeon/Dungeon4.png",
-    "z_Assets/Decks/Business Card Dungeon/Dungeon20.png",
-    "z_Assets/Decks/Business Card Dungeon/Dungeon2.png",
-    "z_Assets/Decks/Business Card Dungeon/Dungeon19.png",
     "Untitled.canvas"
   ]
 }

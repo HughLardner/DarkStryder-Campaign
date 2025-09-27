@@ -1,15 +1,18 @@
 ---
-AssociatedGroup:
-Pronouns: Male
+Homeworld:
 Species:
+Gender:
+Pronouns: Male
+Rank:
+Role:
+Affiliation:
 Age: "1"
-Class:
-Alignment:
-Character-Role:
+Career:
+Speciality:
 Location:
 NoteIcon: npc
 Vitality: Deceased
-exampleProperty: z_Assets/Decks/Business Card Dungeon/Dungeon16.png
+Player:
 ---
 
 <% await tp.file.move("/3-Mechanics/NPCs/" + tp.file.title) %>
@@ -28,15 +31,15 @@ _%>
 > [!infobox]
 > # `=this.file.name`
 > ![[ImagePlaceholder.png|cover hsmall]]
-> [[ImagePlaceholder.png|Show To Players]]
+> [[ImagePlaceholder.png|Full size image]]
 > ###### Basic Information
 > Type |  Stat |
 > ---|---|
-> Home | `=this.Location` |
-> Group | `=this.AssociatedGroup` |
+> Species | `=this.Species` |
+> Affiliation(s) | `=this.Affiliation` |
+> Gender | `=this.Gender` |
 > Pronouns | `=this.pronouns` |
 > Species | `=this.Species` |
-> Age | `=this.age` |
 > Condition | Healthy |
 > ###### Rules Info
 > Type |  Stat |

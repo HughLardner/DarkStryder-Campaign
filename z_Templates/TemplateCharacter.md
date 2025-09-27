@@ -48,6 +48,16 @@ _%>
 > Career | `=this.Career` |
 > Speciality | `=this.speciality` |
 
+
+--- start-multi-column: ID_9pq3
+```column-settings
+Number of Columns: 2
+Largest Column: left
+```
+
+
+--- end-column ---
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -144,6 +154,9 @@ _%>
   </div>
 </body>
 </html>
+
+--- end-multi-column
+
 {{Character
 |type=GFFA
 |image=[[File:Hansoloprofile.jpg]]

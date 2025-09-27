@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z_Templates/6_Help Notes/Obsidian Markdown Formatting.md",
+                "file": "z_Templates/TemplateCharacter.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Obsidian Markdown Formatting"
+              "title": "TemplateCharacter"
             }
           }
         ]
@@ -34,7 +34,7 @@
               "type": "markdown",
               "state": {
                 "file": "z_Templates/TemplateCharacter.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -228,10 +228,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "804b9cf2905035b9",
+  "active": "bc6cad9175c8f2ac",
   "lastOpenFiles": [
-    "z_Templates/TemplateCharacter.md",
     "z_Templates/6_Help Notes/Obsidian Markdown Formatting.md",
+    "z_Templates/TemplateCharacter.md",
     "ImagePlaceholder.png.md",
     "z_Templates/3_Dataview Templates/Query Outgoing Links.md",
     "z_Templates/3_Dataview Templates/Dataview - Query TTRPG Statblocks.md",

@@ -19,7 +19,7 @@
   "renderTime": 2000,
   "colorfulDice": false,
   "scaler": 1,
-  "diceColor": "#202020",
+  "diceColor": "#171717",
   "textColor": "#ffffff",
   "textFont": "Arial",
   "showLeafOnStartup": true,
@@ -30,16 +30,16 @@
   "initialDisplay": "Roll",
   "icons": [
     {
-      "id": "dice-roller-d4",
-      "shape": "Triangle",
+      "text": "4",
       "formula": "d4",
-      "text": "4"
+      "shape": "Triangle",
+      "id": "dice-roller-d4"
     },
     {
-      "id": "dice-roller-d6",
-      "shape": "Square",
+      "text": "6",
       "formula": "d6",
-      "text": "6"
+      "shape": "Square",
+      "id": "dice-roller-d6"
     },
     {
       "id": "dice-roller-d8",
@@ -60,10 +60,10 @@
       "text": "12"
     },
     {
-      "id": "dice-roller-d20",
-      "shape": "Icosahedron",
+      "text": "20",
       "formula": "d20",
-      "text": "20"
+      "shape": "Icosahedron",
+      "id": "dice-roller-d20"
     },
     {
       "id": "dice-roller-d100",
@@ -76,5 +76,6 @@
   "diceModTemplateFolders": {},
   "replaceDiceModInLivePreview": true,
   "version": "11.4.2",
-  "viewResults": []
+  "viewResults": [],
+  "showDice": false
 }

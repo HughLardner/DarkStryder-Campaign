@@ -1,59 +1,24 @@
 {
   "main": {
-    "id": "4cb79ef85173213f",
+    "id": "6b17bb35893ffb0f",
     "type": "split",
     "children": [
       {
-        "id": "b87350b118acb0da",
+        "id": "4b40d4d632864642",
         "type": "tabs",
         "children": [
           {
-            "id": "804b9cf2905035b9",
+            "id": "be1438fbe4e12c57",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-Party/1-Party.md",
-                "mode": "source",
+                "file": "Vault Hub.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1-Party"
-            }
-          },
-          {
-            "id": "8c21456bb086c93a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "z_Templates/TemplateCharacter.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TemplateCharacter"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "a610834066811cc6",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "bc6cad9175c8f2ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "z_Templates/TemplateCharacter.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TemplateCharacter"
+              "title": "Vault Hub"
             }
           }
         ]
@@ -62,15 +27,64 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "07469301e1034859",
+    "id": "dd1b2141f5b150c6",
     "type": "split",
     "children": [
       {
-        "id": "2895005961d0b441",
+        "id": "a0727e49f2470fb9",
         "type": "tabs",
+        "dimension": 65.3910149750416,
         "children": [
           {
-            "id": "8e888b4207bacd42",
+            "id": "492c86998460d755",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of README"
+            }
+          },
+          {
+            "id": "a5d80cd30511b15a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for README"
+            }
+          },
+          {
+            "id": "53610639e5055816",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from README"
+            }
+          },
+          {
+            "id": "8e6a600393459893",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -83,24 +97,7 @@
             }
           },
           {
-            "id": "e3a62373259f0e42",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
-            }
-          },
-          {
-            "id": "6bc34f7931a6f8ac",
+            "id": "de1e1fde3586a07c",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -110,92 +107,73 @@
             }
           },
           {
-            "id": "cc54e2cc7036ae77",
+            "id": "2aed524c2908ff01",
             "type": "leaf",
             "state": {
-              "type": "tagfolder-view",
-              "state": {},
-              "icon": "stacked-levels",
-              "title": "Tag Folder"
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "345879ead97c740a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": true,
+                "searchQuery": "type"
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
         ],
         "currentTab": 3
-      }
-    ],
-    "direction": "horizontal",
-    "width": 300
-  },
-  "right": {
-    "id": "3274aad4660c6f3c",
-    "type": "split",
-    "children": [
+      },
       {
-        "id": "2993c4922aefb6ab",
+        "id": "36fa1c8a293b6a5b",
         "type": "tabs",
+        "dimension": 34.60898502495841,
         "children": [
           {
-            "id": "31e77cf1001ec406",
+            "id": "5d13b38cf3a6f201",
             "type": "leaf",
             "state": {
-              "type": "backlink",
+              "type": "CALENDARIUM",
               "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "calendar": "ID_eb99b8b89ae8",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 27,
+                    "month": 7,
+                    "year": 836
+                  },
+                  "displayDayNumber": false,
+                  "displaySeasonColors": true,
+                  "interpolateColors": true,
+                  "displayMoons": true,
+                  "displayWeather": true,
+                  "location": "NONE"
+                },
+                "id": "ID_592929489988"
               },
-              "icon": "links-coming-in",
-              "title": "Backlinks"
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
             }
           },
           {
-            "id": "8419d198d4792f2c",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links"
-            }
-          },
-          {
-            "id": "405fce1c1f0ce480",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "5f93d56800f9b0a1",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline"
-            }
-          },
-          {
-            "id": "744909928399c819",
+            "id": "a332868a1faaa9b1",
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
@@ -203,95 +181,168 @@
               "icon": "dices",
               "title": "Dice Tray"
             }
-          },
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 438.5085258483887
+  },
+  "right": {
+    "id": "1446a7785c9edd06",
+    "type": "split",
+    "children": [
+      {
+        "id": "aca6aa54cb0dcf99",
+        "type": "tabs",
+        "children": [
           {
-            "id": "f50cdcb93222a926",
+            "id": "aaba2e1998ff0cc1",
             "type": "leaf",
             "state": {
-              "type": "initiative-tracker-view",
-              "state": {},
-              "icon": "initiative-tracker",
-              "title": "Initiative Tracker"
+              "type": "markdown",
+              "state": {
+                "file": "Tools/Buttons.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Buttons"
+            }
+          },
+          {
+            "id": "c919d057baa9f2c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tools/Campaign Stat Tracker.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Campaign Stat Tracker"
+            }
+          },
+          {
+            "id": "501d3f1a5792f4e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tools/Notepad.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Notepad"
+            }
+          },
+          {
+            "id": "2e7390c11e45602c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tools/Travel Calculator.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Travel Calculator"
+            }
+          },
+          {
+            "id": "f57a6a4b35f4ab3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tools/Tab of Lazy Prep.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tab of Lazy Prep"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 603.5,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "templater-obsidian:Templater": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-kanban:Create new board": false,
-      "obsidian42-brat:BRAT": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "obsidian-5e-statblocks:Open Creature pane": false,
-      "initiative-tracker:Initiative Tracker Encounter Builder": false,
-      "obsidian-import-json:JSON/CSV Importer": false,
-      "helpmate:HelpMate": false,
-      "obsidian-projects:Open projects": false,
+      "bases:Create new base": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "templates:Insert template": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "edge-tts:Read note aloud": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "8c21456bb086c93a",
+  "active": "be1438fbe4e12c57",
   "lastOpenFiles": [
-    "1-Party/1-Party.md",
-    "z_Templates/TemplateCharacter.md",
-    "z_Assets/Character Images/Brophar Tofarain.jpg",
-    "z_Assets/Character Images/Darryn Thyte.jpg",
-    "z_Assets/Character Images/Loh'khar the Finder.jpg",
-    "z_Assets/Character Images/Lofryyhn.jpg",
-    "z_Assets/Character Images/Kl'aal.jpg",
-    "z_Assets/Character Images/Gorak Khzam.jpg",
-    "z_Assets/Character Images/Ranna Gorjaye.jpg",
-    "z_Assets/Character Images/Jessa Dajus.jpg",
-    "z_Assets/Character Images/Dr. Akanseh.jpg",
-    "z_Assets/Character Images/Kaiya Adrimetrum.jpg",
-    "z_Templates/6_Help Notes/Obsidian Markdown Formatting.md",
-    "ImagePlaceholder.png.md",
-    "z_Templates/3_Dataview Templates/Query Outgoing Links.md",
-    "z_Templates/3_Dataview Templates/Dataview - Query TTRPG Statblocks.md",
-    "Untitled 2.base",
-    "z_Bases",
-    "1-Party/Command Crew/Command Crew.md",
-    "z_Templates/Command Crew Template.md",
-    "z_Templates/TemplateNPC_WB.md",
-    "z_Templates/TemplatePlayer.md",
-    "z_Example Notes/Realm Design Form.md",
-    "z_Templates/TemplateGroup.md",
-    "z_Templates/6_Help Notes/Font Examples.md",
-    "1-Session Journals/2000-01-01.md",
-    "1-Session Journals/2023-10-26.md",
-    "2-Campaign/Quests/Quests.md",
-    "z_Templates/6_Help Notes/Chart Examples (Mermaid).md",
-    "z_Templates/4_Markdown/April's Timeline/Timeline - Render Timeline.md",
-    "z_Templates/4_Markdown/April's Timeline/Timeline - Insert Event into Frontmatter.md",
-    "z_Templates/4_Markdown/April's Timeline/Timeline - Add Event.md",
-    "z_Templates/4_Markdown/Call Out Boxes/Call Out - Trap.md",
-    "z_Templates/4_Markdown/Call Out Boxes/Call Out - Message.md",
-    "z_Templates/4_Markdown/Call Out Boxes/Call Out - Magic Item.md",
-    "z_Templates/4_Markdown/Combat Templates/Insert Random Encounter Table (Initiative Tracker).md",
-    "z_Templates/4_Markdown/Combat Templates/Insert Monster Into Table (Initiative Tracker).md",
-    "z_Templates/4_Markdown/Combat Templates/Insert Customer Monster (TTRPG Statblock).md",
-    "z_Example Notes",
-    "z_Templates/4_Markdown/Insert Rollable Table",
-    "z_Templates/4_Markdown/April's Timeline",
-    "z_Templates/4_Markdown/Combat Templates",
-    "z_Templates/4_Markdown/Call Out Boxes",
-    "z_Templates/7_World Building Templates",
-    "z_Templates/6_Help Notes",
-    "z_Templates/3_Dataview Templates",
-    "Untitled.canvas"
+    "Changelog.md",
+    "Vault Hub.md",
+    "z_Templates/GM Templates/Possessions/Template - Vehicle.md",
+    "z_Templates/GM Templates/Possessions/Template - Literature.md",
+    "z_Templates/GM Templates/Possessions/Template - Spell.md",
+    "z_Templates/GM Templates/Possessions/Template - Letter.md",
+    "z_Templates/GM Templates/Possessions/Template - Item.md",
+    "z_Templates/GM Templates/Locations/Template - World.md",
+    "z_Templates/GM Templates/Locations/Template - Topography.md",
+    "z_Templates/GM Templates/Locations/Template - Settlement.md",
+    "z_Templates/GM Templates/Locations/Template - Region.md",
+    "z_Templates/GM Templates/Locations/Template - Plane.md",
+    "z_Templates/GM Templates/Locations/Template - Area.md",
+    "z_Templates/GM Templates/Locations/Template - District.md",
+    "z_Templates/GM Templates/Locations/POIs/Template - Point of Interest (Shop).md",
+    "z_Templates/GM Templates/Locations/POIs/Template - Point of Interest.md",
+    "z_Templates/GM Templates/Characters/Template - Player.md",
+    "z_Templates/GM Templates/Characters/Template - Organization.md",
+    "z_Templates/GM Templates/Characters/Template - NPC (Tabs).md",
+    "z_Templates/GM Templates/Characters/Template - NPC.md",
+    "z_Templates/GM Templates/Characters/Template - Hierarchy.md",
+    "z_Templates/GM Templates/Characters/Template - Deity.md",
+    "z_Templates/GM Templates/Characters/Template - Creature.md",
+    "z_Templates/GM Templates/Story Notes/Template - Session Note.md",
+    "z_Templates/GM Templates/Story Notes/Template - Service.md",
+    "z_Templates/GM Templates/Story Notes/Template - Quest.md",
+    "Tools/Configs",
+    "Campaign/Creatures/Players/Party1",
+    "Campaign/Creatures/Players",
+    "Campaign/Creatures/NPCs",
+    "Campaign/Creatures/Deities",
+    "Campaign/Creatures",
+    "z_Assets/Misc/Placeholders/PlaceholderCreature.png",
+    "z_Assets/Misc/Placeholders/ChatGPT Image Aug 26, 2025, 11_42_43 AM.png",
+    "z_Databases/Locations/Database - Area Note.base",
+    "z_Databases/Locations/Database - Continent Note.base",
+    "z_Assets/Planes",
+    "z_Assets/Regions",
+    "z_Assets/BoT/README/FilePath.png",
+    "z_Assets/BoT/README/AutomaticUpdates.png",
+    "z_Assets/BoT/HubBackground.png",
+    "z_Assets/BoT/ObsidianGemBOT.jpg",
+    "z_Assets/Misc/Placeholders/PlaceholderHeritage.png",
+    "z_Assets/Misc/Placeholders/ChatGPT Image Aug 20, 2025, 02_54_14 AM.png",
+    "z_Assets/Misc/Placeholders/PlaceholderAncestry.png",
+    "z_Assets/Misc/Placeholders/PlaceholderArea.png",
+    "z_Canvas/Canvas.canvas",
+    "z_Canvas/Feldon Planning.canvas",
+    "3. Campaign/4. Planes/Untitled.canvas",
+    "z_Canvas/Untitled.canvas"
   ]
 }

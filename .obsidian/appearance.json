@@ -1,9 +1,30 @@
 {
+  "accentColor": "",
   "cssTheme": "Fancy-a-Story",
-  "theme": "obsidian",
   "enabledCssSnippets": [
+    "TTRPGCallouts",
+    "BOTCallouts",
+    "Fancy-A-Story",
+    "pf2e-spell",
+    "ClickableCards",
+    "S - Dataview Cards",
+    "BetterLeafletIcons",
+    "BOTCallouts - Darkmode",
     "supercharged-links-gen",
-    "StarWarsFonts",
-    "multiColumn"
-  ]
+    "TabsInObsidian",
+    "Fancy-A-Story-Tweaks",
+    "ITSSnippets",
+    "ReadableLineWidthAlter",
+    "ITSAlternateThemes",
+    "SFolderStyles",
+    "HideNameEmail",
+    "FancyAStoryTweaks",
+    "BOTCalloutsDarkmode"
+  ],
+  "showViewHeader": true,
+  "nativeMenus": false,
+  "translucency": false,
+  "theme": "obsidian",
+  "baseFontSize": 15,
+  "baseFontSizeAction": false
 }

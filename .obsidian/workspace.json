@@ -11,14 +11,13 @@
             "id": "be1438fbe4e12c57",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Vault Hub.md",
-                "mode": "preview",
-                "source": false
+                "file": "z_Databases/Ancestries/Database - Ancestry.base",
+                "viewName": "Compatiable Heritages"
               },
-              "icon": "lucide-file",
-              "title": "Vault Hub"
+              "icon": "lucide-table",
+              "title": "Database - Ancestry"
             }
           }
         ]
@@ -289,13 +288,15 @@
       "templater-obsidian:Templater": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "custom-sort:Toggle custom sorting": false
+      "custom-sort:Toggle custom sorting": false,
+      "calendarium:Open Calendarium": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "be1438fbe4e12c57",
   "lastOpenFiles": [
-    "Changelog.md",
     "Vault Hub.md",
+    "Changelog.md",
     "z_Templates/GM Templates/Possessions/Template - Vehicle.md",
     "z_Templates/GM Templates/Possessions/Template - Literature.md",
     "z_Templates/GM Templates/Possessions/Template - Spell.md",

@@ -1,4 +1,15 @@
 {
   "fancy-a-story@@fas-skin-select": "fas-skin-sci-fi",
-  "fancy-a-story@@fas-adaptive-accent": true
+  "fancy-a-story@@fas-adaptive-accent": true,
+  "ITS@@embed-clean": false,
+  "ITS@@embed-dark-background": false,
+  "ITS@@s-d": false,
+  "ITS@@slrvb-g": false,
+  "ITS@@slrvb-b": false,
+  "ITS@@notion": false,
+  "ITS@@mini": false,
+  "ITS@@nord": false,
+  "ITS@@drwn": false,
+  "ITS@@t-d": false,
+  "ITS@@select": "none"
 }

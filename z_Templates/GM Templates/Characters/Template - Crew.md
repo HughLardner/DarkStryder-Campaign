@@ -1,7 +1,6 @@
 ---
 tags:
   - Character
-  - NPC
 art: "[[PlaceholderCharacter.png]]"
 pronounced:
 aliases:
@@ -10,12 +9,12 @@ species:
 homeworld:
 gender:
 pronouns:
-sexuality:
+role:
 languages:
   - "[[Common]]"
-occupation: []
-organizations: []
-religions: []
+Career: []
+specialisation: []
+affiliation: []
 currentLocation:
 condition:
   - Healthy
@@ -50,7 +49,7 @@ age: 836
 > |---|---|
 > | **Languages** | `VIEW[{languages}][link]` |
 > | **Occupations** | `VIEW[{occupation}][text]` |
-> | **Organizations** | `VIEW[{organizations}][link]` |
+> | **Affiliation(s)** | `VIEW[{affiliation}][link]` |
 > | **Religions** | `VIEW[{religions}][link]` |
 > | **Condition** | `VIEW[{condition}]` |
 > | **Current Location** | `VIEW[{currentLocation}][link]` |

@@ -73,7 +73,7 @@ gO71v4O8: [[Template - Session Note]]
 
 VKZA25Wf: [[Template - Adventure]]
 
-A7rs9jIW: [[Template - NPC]]
+A7rs9jIW: [[Template - Crew]]
 
 Fl4XdQXl: [[Template - Session Note]]
 

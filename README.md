@@ -423,7 +423,7 @@ The Point of Interest (Shop) template is for detailing shops, merchants, or mark
 
 #### Characters
 
-##### [[Template - NPC]]
+##### [[Template - Crew]]
 
 The NPC template is for creating characters that populate your world. It helps you capture their description, personality, mannerisms, motivations, history, and any secrets, rumours, or legends tied to them.
 

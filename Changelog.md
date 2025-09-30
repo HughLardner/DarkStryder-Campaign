@@ -48,10 +48,10 @@ There are a LOT of changes from 2.0 to 2.1, too many to cover for each and every
 - Added `pronounced` property and display to the following:
 	- [[Template - Player]]
 	- [[Template - Deity]]
-	- [[Template - NPC]]
+	- [[Template - Crew]]
 	- [[Template - NPC (Tabs)]]
 - Added `titles` property and Infobox dIsplay to the following:
 	- [[Template - Player]]
-	- [[Template - NPC]]
+	- [[Template - Crew]]
 	- [[Template - NPC (Tabs)]]
 

@@ -31,11 +31,11 @@ Current Session:
 
 | Characters | Details |
 | ---- | ---- |
-| [[Template - NPC]] | This an example of information |
-| [[Template - NPC]] | This an example of information |
-| [[Template - NPC]] | This an example of information |
-| [[Template - NPC]] | This an example of information |
-| [[Template - NPC]]  | This an example of information |
+| [[Template - Crew]] | This an example of information |
+| [[Template - Crew]] | This an example of information |
+| [[Template - Crew]] | This an example of information |
+| [[Template - Crew]] | This an example of information |
+| [[Template - Crew]]  | This an example of information |
 
 | Locations | Details |
 | ---- | ---- |
@@ -75,11 +75,11 @@ Current Session:
 
 | Characters | Details |
 | ---- | ---- |
-| [[Template - NPC]] | This an example of information |
-| [[Template - NPC]] | This an example of information |
-| [[Template - NPC]] | This an example of information |
-| [[Template - NPC]] | This an example of information |
-| [[Template - NPC]]  | This an example of information |
+| [[Template - Crew]] | This an example of information |
+| [[Template - Crew]] | This an example of information |
+| [[Template - Crew]] | This an example of information |
+| [[Template - Crew]] | This an example of information |
+| [[Template - Crew]]  | This an example of information |
 
 | Locations | Details |
 | ---- | ---- |

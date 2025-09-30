@@ -2,13 +2,14 @@
 tags:
   - Character
   - NPC
-art: "[[PlaceholderCharacter.png]]"
+art: "[[Jessa Dajus.jpg]]"
 pronounced:
 aliases:
-rank:
-species:
-homeworld:
+rank: Captain
+species: Human
+homeworld: Earth
 gender:
+  - Male
 pronouns:
 sexuality:
 languages:

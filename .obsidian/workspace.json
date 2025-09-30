@@ -39,13 +39,14 @@
             "id": "d3f2355405f97374",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Untitled 1.base",
-                "viewName": "Table"
+                "file": "z_Templates/Command Crew Template.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Untitled 1"
+              "icon": "lucide-file",
+              "title": "Command Crew Template"
             }
           }
         ],
@@ -344,6 +345,7 @@
   },
   "active": "d3f2355405f97374",
   "lastOpenFiles": [
+    "Untitled 1.base",
     "Untitled.base",
     "z_Templates/GM Templates/Characters/Template - NPC.md",
     "Vault Hub.md",
@@ -381,7 +383,6 @@
     "z_Assets/Misc/Placeholders/ChatGPT Image Aug 26, 2025, 11_42_43 AM.png",
     "z_Databases/Locations/Database - Area Note.base",
     "z_Databases/Locations/Database - Continent Note.base",
-    "z_Assets/Planes",
     "z_Assets/BoT/README/FilePath.png",
     "z_Assets/BoT/README/AutomaticUpdates.png",
     "z_Assets/BoT/HubBackground.png",

@@ -1,3 +1,22 @@
 [
-  "obsidian-git"
+  "obsidian-git",
+  "calendarium",
+  "custom-sort",
+  "dataview",
+  "new-tab-default-page",
+  "obsidian-dice-roller",
+  "edge-tts",
+  "editing-toolbar",
+  "obsidian-excalidraw-plugin",
+  "obsidian-5e-statblocks",
+  "obsidian-file-color",
+  "obsidian-hover-editor",
+  "js-engine",
+  "obsidian-leaflet-plugin",
+  "quickadd",
+  "obsidian-meta-bind-plugin",
+  "obsidian-style-settings",
+  "supercharged-links-obsidian",
+  "templater-obsidian",
+  "various-complements"
 ]

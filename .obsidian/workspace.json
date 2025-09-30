@@ -271,6 +271,16 @@
               "icon": "lucide-file",
               "title": "Tab of Lazy Prep"
             }
+          },
+          {
+            "id": "5056c0fe4ded0e31",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
           }
         ]
       }

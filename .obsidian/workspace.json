@@ -82,7 +82,6 @@
       {
         "id": "a0727e49f2470fb9",
         "type": "tabs",
-        "dimension": 65.3910149750416,
         "children": [
           {
             "id": "492c86998460d755",
@@ -188,54 +187,10 @@
           }
         ],
         "currentTab": 3
-      },
-      {
-        "id": "36fa1c8a293b6a5b",
-        "type": "tabs",
-        "dimension": 34.60898502495841,
-        "children": [
-          {
-            "id": "5d13b38cf3a6f201",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM",
-              "state": {
-                "calendar": "ID_eb99b8b89ae8",
-                "ephemeral": {
-                  "viewState": 1,
-                  "displaying": {
-                    "day": 27,
-                    "month": 7,
-                    "year": 836
-                  },
-                  "displayDayNumber": false,
-                  "displaySeasonColors": true,
-                  "interpolateColors": true,
-                  "displayMoons": true,
-                  "displayWeather": true,
-                  "location": "NONE"
-                },
-                "id": "ID_592929489988"
-              },
-              "icon": "CALENDARIUM",
-              "title": "Calendarium"
-            }
-          },
-          {
-            "id": "a332868a1faaa9b1",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
-              "icon": "dices",
-              "title": "Dice Tray"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 438.5085258483887
+    "width": 436.5
   },
   "right": {
     "id": "1446a7785c9edd06",
